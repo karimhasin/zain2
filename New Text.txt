@@ -1,2 +1,4 @@
 print ("hello hassan")
 world
+print ("hello Zain")
+print ("how are u ?")
